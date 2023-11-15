@@ -1,0 +1,29 @@
+
+#TaskProjet{
+    width: 40%;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 1em;
+    background-color: rgb(85, 122, 122);
+    padding: 1em 1em 1em 1em ;
+    
+}
+body{
+    background-color: rgb(197, 197, 188); 
+}
+#ViewTask{
+    text-align: left;
+    color: wi;
+}
+#text_add{
+    border: 1px solid;
+    background-color: white;
+    border-radius: 1em;
+    padding: 0.4em;
+}
+input{
+    border-radius: 1em;
+}
+/* .ViewTask{
+
+} */
